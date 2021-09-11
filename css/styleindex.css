@@ -1,0 +1,225 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F8F8F8;
+}
+
+#topBar{
+    width: 100%;
+    height: 50px;
+    background-color: #2C3E50;
+}
+
+#linkBar{
+    width: 200px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 190px;
+}
+
+#topBar a{
+    text-decoration: none;
+    color: #95A5A6;
+    margin-left: 24px;
+    
+}
+
+#logo{
+    width: 160px;
+    margin-left: 190px;
+    margin-top: 5px;
+}
+
+#modelsmoker{
+    width: 100%;
+    height: auto;
+    float: left;
+    
+}
+
+#container{
+    width: 60%;
+    height: auto;    
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+}
+
+.box{
+    width: 210px;
+    height: 260px;
+    float: left;
+    text-align: center;
+    margin: 60px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+}
+
+.small{
+    width: auto;
+    height: 60px;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 24px;
+    line-height: 30px;
+    color: #95A5A6;
+    font-weight: 900;
+    
+}
+
+h4{
+    color: #fff;
+    font-size: 24px;
+    
+}
+
+p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #95A5A6;
+    font-weight: 200;
+    padding: 0 20px;
+    
+}
+
+#serachAddress{
+    width: 100%;
+    height: 150px;
+    background-color: #000000;
+    float: left;
+    text-align: center;
+    align-items: center;
+    
+}
+
+#inputAddress{
+    width: 460px;
+    height: 28px;   
+    background-color: #000000;
+    border: 1px solid #ECF0F1;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+#searchSubmit{
+    width: 133px;
+    height: 33px;
+    margin: 0 0 0 10px;
+}
+
+#topProducts{
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    justify-content: center;
+    padding: 10px 0;
+    
+}
+
+.boxTopP{
+    width: 70%;
+    margin: auto;
+    padding: 20px 0;
+    
+}
+
+.boxTopP ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+.boxTopP li{
+    text-align: center;
+    margin: auto;
+
+}
+
+.boxTopP ul li a{
+    text-decoration: none;
+    color: #95A5A6;
+}
+
+img{
+
+}
+
+
+#categories{
+    width: 100%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#listCategories{
+    
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.styleButon{
+    width: 246px ;
+    height: 44px;
+    margin: 10px 30px;
+    background-color: #fff;
+    border: 1px solid #2C3E50;
+}
+
+button{
+    border-radius: 5px;
+    border: 1px solid #fff;
+    color: #000;
+}
+
+footer{
+    width: 100%;
+    height: 138px;
+    background-color: #2C3E50;
+    float: left;
+    text-align: center;
+    justify-content: center;
+}
+
+footer ul{
+    width: 60%;
+    display: flex;
+    list-style-type: none;
+    color: lavender;
+    margin: 30px auto;
+    justify-content: space-around;
+}
+
+footer ul li{
+    margin: auto;
+    
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: lavender;
+}
+
+h9{
+    color: lavender;
+    
+}
+
+hr{
+    width: 80%;
+    color: #ccc;
+}
+
+
+
+
+
+
